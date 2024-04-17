@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Apr 16 13:27:13 2024
+# Process ID: 15408
+# Current directory: C:/Users/norag/OneDrive/Desktop/University/2nd Year/2nd sem/CA/MIPS/MIPS/MIPS.runs/synth_1
+# Command line: vivado.exe -log mip.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mip.tcl
+# Log file: C:/Users/norag/OneDrive/Desktop/University/2nd Year/2nd sem/CA/MIPS/MIPS/MIPS.runs/synth_1/mip.vds
+# Journal file: C:/Users/norag/OneDrive/Desktop/University/2nd Year/2nd sem/CA/MIPS/MIPS/MIPS.runs/synth_1\vivado.jou
+# Running On: DESKTOP-SMARFO8, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 10, Host memory: 16858 MB
+#-----------------------------------------------------------
+source mip.tcl -notrace
